@@ -14,11 +14,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #4682B4;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color:       #B0C4DE;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -42,9 +42,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -146,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
+    color: #778899 !important;
     text-decoration: none;
 
     &:visited {
@@ -154,18 +151,18 @@ a {
     }
 
     &:hover {
-        color: black !important;
+        color: #778899 !important;
         border-bottom: 1px dotted black ;
     }
 
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted black ;
+          border-bottom: 1px dotted #778899 ;
       }
     }
     &.postLink{
-      color: black !important;
+      color: #778899 !important;
       &:hover {
 
           border-bottom: 1px dotted black ;
