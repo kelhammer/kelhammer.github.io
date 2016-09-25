@@ -11,8 +11,8 @@ creating content doesn't stand in the way of presenting content, which for a beg
 
 So what are we going to talk about? 
 
-Let's talk about the upcoming series of Doctor Who. The next series of Doctor Who is rumored to be released in April. This means no fall season and probably no
-Christmas special. While this time frame differs from recent history for the series, it will allow star Peter Capaldi more time to rest from the previous series'
+Let's talk about the upcoming series of Doctor Who. The next series of Doctor Who is rumored to be released in April. This means no fall season but a 
+Christmas special has been announced. While this time frame differs from recent history for the series, it will allow star Peter Capaldi more time to rest from the previous series'
 filming blocks. Series 9's filming blocks were notoriously long and ardous for Peter Capaldi and Jenna Coleman. A spread out filming schedule also allows for increased
 quality in post production and reshoots. 
 
