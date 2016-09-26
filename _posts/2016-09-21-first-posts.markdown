@@ -11,3 +11,4 @@ best are **cd**, **pwd**, **git init**, **ls**, **git add**, and **git commit**.
 the css rules, but I've used css briefly before. I'm hoping that some of that knowledge comes back. Overall, I am very exctied with what I've learned so far in this class. I am 
 starting to remember the basic processes and don't have to check my notes quite as much. My website is starting to look good and I can't wait to improve it more. 
 
+<img src="http://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
