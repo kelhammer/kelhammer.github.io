@@ -16,6 +16,16 @@ Christmas special has been announced. While this time frame differs from recent 
 filming blocks. Series 9's filming blocks were notoriously long and ardous for Peter Capaldi and Jenna Coleman. A spread out filming schedule also allows for increased
 quality in post production and reshoots. 
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Spectacular Mountain</h2>
+<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+</body>
+</html>
+
 We will also have a new companion when Doctor Who returns. Jenna Coleman, the longest running companion actor in Doctor Who's fifty year history, departed the show after her
 third series to star in ITV's Victoria. Her character on the program, Clara Oswald, was written off the series in the season finale. BBC announced earlier this year that Clara 
 Oswald would be replaced as a companion by a new character named Bill, played by Pearl Mackie. Mackie's new character could be named after Billie Piper who played Rose Tyler. 
