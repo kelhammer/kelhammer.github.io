@@ -12,3 +12,5 @@ the css rules, but I've used css briefly before. I'm hoping that some of that kn
 starting to remember the basic processes and don't have to check my notes quite as much. My website is starting to look good and I can't wait to improve it more. 
 
 <img src="https://media.giphy.com/media/YalMCUQmsYSkM/giphy.gif" alt="giphy.com">
+
+Change 1
