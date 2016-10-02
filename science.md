@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: Cool Stuff
+permalink: /coolstuff/
+tagline: "the fun stuff that didn't fall into any other category"
+category: "fun"
 ---
