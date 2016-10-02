@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Posts
+permalink: /posts/
 
-tagline: "Loved it? Download Gravity"
+tagline: "The inner workings of my mind"
 ---
 
 
