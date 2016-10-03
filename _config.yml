@@ -10,7 +10,7 @@ title: Call Me Smoak
 email: hemangsk@gmail.com
 description: my attempt to learn coding
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kelhammer.github.io/" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 twitter_username: kel_hammer
 github_username:  kelhammer
 
