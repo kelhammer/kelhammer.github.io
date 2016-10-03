@@ -83,7 +83,6 @@ tagline : "Coding is overrated."
   <p>
     Introducing <strong>Kelsey</strong>.<br></p>
   <span class="archive-intro"> Kelsey is from Hickory, North Carolina. She received her undergraduate degree in English and CRADL (Composition, Rhetoric, and Digital Literacy) from the University of North Carolina at Chapel Hill.
-  
 </span>
 </div>
 <br>
