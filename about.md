@@ -32,4 +32,8 @@ Kelsey is from Hickory, North Carolina. She received her undergraduate degree in
 </div><br>
 <p> Kelsey plans on finishing her degree in 2018. After graduate school, she wants to work in an academic library. </p>
 
+<br> <center><p ><strong><span class="manual">Kelsey On Twitter</span></strong></p></center><br>
 
+<br><a href="https://twitter.com/Kel_Hammer">Profile Page</a><br>
+
+<br><a class="twitter-timeline" href="https://twitter.com/Kel_Hammer">Tweets by Kel_Hammer</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
