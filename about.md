@@ -7,11 +7,11 @@ permalink: /about/
 <h2>Kelsey Hammer</h2>
 <p>Shatters glass, forges steel, pronouces gif correctly. UNC Graduate Student. Future Librarian</p>
 <br>
-<center><p ><strong><span class="manual">About Me</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">About Me</span></strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Posting</strong>
+  <strong>Background</strong>
   </div>
 <p>  <div class="manual-content">
 
@@ -44,7 +44,7 @@ categories: ["life", "friends"]
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Create Pages</strong>
+  <strong>Current Work</strong>
   </div>
 <p>  <div class="manual-content">
 
@@ -77,7 +77,7 @@ tagline : "Coding is overrated."
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
+  <strong>Future Plans</strong><br>
 </div><br>
 <div class="archiveIntro">
   <p>
