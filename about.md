@@ -30,14 +30,6 @@ Kelsey is from Hickory, North Carolina. She received her undergraduate degree in
   <div class="manual manual-title">
   <strong>Future Plans</strong><br>
 </div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Kelsey</strong>.<br></p>
-  <span class="archive-intro"> 
-</span>
-</div>
-<br>
+<p> Kelsey plans on finishing her degree in 2018. After graduate school, she wants to work in an academic library. </p>
 
-<p>  <div class="manual-content">
 
-</div>
