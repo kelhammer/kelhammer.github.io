@@ -22,7 +22,7 @@ Kelsey is from Hickory, North Carolina. She received her undergraduate degree in
   <div class="manual manual-title">
   <strong>Current Work</strong>
   </div>
-<p>  
+<p>Kelsey is currently in graduate school for librarianship at the University of North Carolina at Chapel Hill. She works in reference and design services and enjoys learning about new library resources and programs.
 </p>
 </div>
 <br>
