@@ -81,8 +81,9 @@ tagline : "Coding is overrated."
 </div><br>
 <div class="archiveIntro">
   <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
+    Introducing <strong>Kelsey</strong>.<br></p>
+  <span class="archive-intro"> Kelsey is from Hickory, North Carolina. She received her undergraduate degree in English and CRADL (Composition, Rhetoric, and Digital Literacy) from the University of North Carolina at Chapel Hill.
+  
 </span>
 </div>
 <br>
