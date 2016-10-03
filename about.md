@@ -7,7 +7,7 @@ permalink: /about/
 <h2>Kelsey Hammer</h2>
 <p>Shatters glass, forges steel, pronouces gif correctly. UNC Graduate Student. Future Librarian</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">About Me</span> Gravity</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
