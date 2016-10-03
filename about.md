@@ -13,32 +13,8 @@ permalink: /about/
   <div class="manual manual-title">
   <strong>Background</strong>
   </div>
-<p>  <div class="manual-content">
-
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
----</pre>
-      </div>
-      <div class="example">
-
-        <pre>---
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
----</pre>
-      </div>
-
-
-  </div>
+<p>
+Kelsey is from Hickory, North Carolina. She received her undergraduate degree in English and CRADL (Composition, Rhetoric, and Digital Literacy) from the University of North Carolina at Chapel Hill. 
 </p>
 </div>
 <br>
@@ -46,32 +22,7 @@ categories: ["life", "friends"]
   <div class="manual manual-title">
   <strong>Current Work</strong>
   </div>
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br>
-      - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: page
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
----</pre>
-      </div>
-      <div class="example">
-
-        <pre>---
-layout: page
-title:  "Test 1"
-permalink:   /Test 1/
-tagline : "Coding is overrated."
----</pre>
-      </div>
-
-
-  </div>
+<p>  
 </p>
 </div>
 <br>
@@ -82,7 +33,7 @@ tagline : "Coding is overrated."
 <div class="archiveIntro">
   <p>
     Introducing <strong>Kelsey</strong>.<br></p>
-  <span class="archive-intro"> Kelsey is from Hickory, North Carolina. She received her undergraduate degree in English and CRADL (Composition, Rhetoric, and Digital Literacy) from the University of North Carolina at Chapel Hill.
+  <span class="archive-intro"> 
 </span>
 </div>
 <br>
