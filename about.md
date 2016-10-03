@@ -4,8 +4,8 @@ title : About
 permalink: /about/
 ---
 
-<h2>Kelsey</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Kelsey Hammer</h2>
+<p>Shatters glass, forges steel, pronouces gif correctly. UNC Graduate Student. Future Librarian</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
