@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cool Stuff
-permalink: /coolstuff/
+title: Fun Stuff
+permalink: /funstuff/
 tagline: "the fun stuff that didn't fall into any other category"
 category: "fun"
 ---
