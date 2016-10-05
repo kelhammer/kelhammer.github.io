@@ -3,9 +3,10 @@ layout: page
 title : About
 permalink: /about/
 ---
-
-<h2>Kelsey Hammer</h2>
-<p>Shatters glass, forges steel, pronouces gif correctly. UNC Graduate Student. Future Librarian</p>
+<br>
+<center><h2>Kelsey Hammer</h2></center>
+<IMG class="displayed" src="https://pbs.twimg.com/profile_images/622242516671180804/d484WRFa.jpg" alt="twitter pic">
+<center><p>Shatters glass, forges steel, pronouces gif correctly. <br> UNC Graduate Student. Future Librarian</p></center>
 <br>
 <center><p ><strong><span class="manual">About Me</span></strong></p></center>
 <br>
