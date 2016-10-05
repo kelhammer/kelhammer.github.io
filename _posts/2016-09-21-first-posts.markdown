@@ -11,5 +11,7 @@ best are `cd`, `pwd`, `git init`, `ls`, `git add`, and `git commit`. I can now r
 the css rules, but I've used css briefly before. I'm hoping that some of that knowledge comes back. Overall, I am very exctied with what I've learned so far in this class. I am 
 starting to remember the basic processes and don't have to check my notes quite as much. My website is starting to look good and I can't wait to improve it more. 
 
+<br>
+
 <img src="https://media.giphy.com/media/YalMCUQmsYSkM/giphy.gif" alt="giphy.com">
 
