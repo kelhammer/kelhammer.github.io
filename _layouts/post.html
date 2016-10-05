@@ -5,11 +5,11 @@ layout: default
 
   <header class="post-header">
 <br>    
-<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+<h2><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p></h2>
     {% if page.author %}
      <div class="">
-      <p ><span class="authorKeyword">Author</span><span class="small-site-title"> <h2 style="letter-spacing: 3px !important;
-       text-transform: uppercase !important;">{{page.author}}</h2></span></p>
+      <h2><span class="authorKeyword">Author</span><span class="small-site-title"> <h2 style="letter-spacing: 3px !important;
+       text-transform: uppercase !important;">{{page.author}}</h2></span></p></h2>
 
      </div>
      {% endif %}
