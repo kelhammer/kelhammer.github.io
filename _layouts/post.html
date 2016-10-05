@@ -2,8 +2,8 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header">
+
 <br>    
 <h2><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p></h2>
     {% if page.author %}
@@ -14,7 +14,10 @@ layout: default
      </div>
      {% endif %}
   </header>
-
+      <img src="http://blog.clusterlabs.org/images/blue-yellow-banner-thin.jpg" alt="banner"> 
+      <br>
+      <br>
+      
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
