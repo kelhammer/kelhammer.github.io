@@ -1,32 +1,18 @@
 ---
 layout: page
-title: Posts
-permalink: /posts/
+title: Smoak?
+permalink: /smoak/
 
-tagline: "The inner workings of my mind"
+tagline: "What is Smoak?"
 ---
-
+<br>
+<p>This site is named after Felicity Smoak. A character on CW's hit television series <i>Arrow<i>. Felicity is a world class hacker and I.T. expert. Her computer antics are often a comedic and dramatic addition to the show. 
+Below are some clips of Felicity Smoak in action from CW's  <i>Arrow<i> and <i>The Flash<i>. <p>
 
 <br>
-<div class="download">
-  <center>Just a second! <i class="fa fa-heart"></i> Star it if you loved!</center>
-  <br>
-<center>
-  <iframe src="https://ghbtns.com/github-btn.html?user=hemangsk&repo=gravity&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-  <iframe src="https://ghbtns.com/github-btn.html?user=hemangsk&repo=gravity&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKMJ-shX0-U" frameborder="0" allowfullscreen></iframe>
 
-  <iframe src="https://ghbtns.com/github-btn.html?user=hemangsk&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="200px" height="30px"></iframe>
-</center>
-</div>
-<center>GitHub Repository
-<a href="http://github.com/hemangsk/Gravity"><p><i class="fa fa-github"></i></p></a>
-</center>
-<div class="intro"><br>
-  <p>
- Hello there! :) <BR><br>
- Hemang here, developer of <span class="small-site-title">Gravity</span> theme. <br>
- I'm a CS sophomore at USICT, New Delhi. <br><br>
- <a href="http://facebook.com/hemangkr"><i class="fa fa-facebook"></i></a> &nbsp; &nbsp; &nbsp;<a href="http://github.com/hemangsk"><i class="fa fa-github"></i></a>
- </p>
-</div>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hV2HPCSnwVA" frameborder="0" allowfullscreen></iframe>
