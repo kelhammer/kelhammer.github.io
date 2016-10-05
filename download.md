@@ -6,10 +6,16 @@ permalink: /smoak/
 tagline: "What is Smoak?"
 ---
 <br>
-<p>This site is named after Felicity Smoak. A character on CW's hit television series <i>Arrow<i>. Felicity is a world class hacker and I.T. expert. Her computer antics are often a comedic and dramatic addition to the show. 
-Below are some clips of Felicity Smoak in action from CW's  <i>Arrow<i> and <i>The Flash<i>. <p>
+<h2> Felicity Smoak - Arrow </h2> <br>
+<img src="http://i.imgur.com/Fxh9MCw.png" alt="imgur.com">
 
 <br>
+
+<p>This site is named after Felicity Smoak. A character on CW's hit television series <i>Arrow</i>. Felicity is a world class hacker and I.T. expert. Her computer antics are often a comedic and dramatic addition to the show. 
+Below are some clips of Felicity Smoak in action from CW's  <i>Arrow</i> and <i>The Flash</i>. <p>
+
+<br>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKMJ-shX0-U" frameborder="0" allowfullscreen></iframe>
 
