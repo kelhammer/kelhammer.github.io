@@ -19,12 +19,12 @@ software <a href="https://www.tinkercad.com/">Tinkercad</a> .
 
 <br>
 <br>
-Overall it was a really great learning experience and I am excited about what it possible with 3D printing. 
+Overall it was a really great learning experience and I am excited about what is possible with 3D printing. 
 There were a couple other people in the workshop with all kinds of projects and it was fun to talk about 
 problem solving, technology capabilities/limits, and design ideas with other students and staff in the community.
-I plan on going back to more workshops for 3D printing (and maybe more) at the Kenan Library Science Makerspace. 
+I plan on going back to more workshops for 3D printing (and maybe even something else!) at the Kenan Library Science Makerspace. 
 It was also cool to see how computer coding can go beyond the digital and become something 3D and real. 
-Also I'm big into making gifs and I made one to show off my first design! 
+Also I'm big into making gifs and I made one to share with you the design I made (plus a little 161 call out!) 
 Till next time! 
 
 <br>
