@@ -14,11 +14,22 @@ commonly used for printing 3D objects expand during printing process so if you h
 design, objects must be water tight, the bonds between the filament are weaker than the filament itself, printing at UNC is free 
 (at only 300 grams per month), and you can have 3D printed materials in most primary colors. I also was shown and experimented with the 3D printing
 software Tinkecad and Openscad. 
+
 <br>
-Overall it was a really great learning experience and I am excited about what it possible with 3D printing. There were a couple other people in the workshop with all kinds of projects and it was fun to talk about problem solving, technology capabilities/limits, and design ideas with other students and staff in the community. I plan on going back to more workshops for 3D printing (and maybe more) at the Kenan Library Science Makerspace. It was also cool to see how computer coding can go beyond the digital and become something 3D and real. Till next time! 
+
+Overall it was a really great learning experience and I am excited about what it possible with 3D printing. 
+There were a couple other people in the workshop with all kinds of projects and it was fun to talk about 
+problem solving, technology capabilities/limits, and design ideas with other students and staff in the community.
+I plan on going back to more workshops for 3D printing (and maybe more) at the Kenan Library Science Makerspace. 
+It was also cool to see how computer coding can go beyond the digital and become something 3D and real. 
+Till next time! 
+
 <br>
-Sincerely, 
+
+Sincerely,
+
 <br>
+
 Hammer 
 
 <br>
