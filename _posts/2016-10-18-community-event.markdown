@@ -5,7 +5,7 @@ date:   2016-10-18 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
 ---
-For my community event, I attended a 3D Printing Introduction Workshop at Kenan Science Library’s Makerspace. 
+<p> For my community event, I attended a 3D Printing Introduction Workshop at Kenan Science Library’s Makerspace. 
 I wanted to attend this event because I am interested in 3D printing and had an idea in mind for an object I wanted to print for my job.
 It was an introduction workshop so we didn’t go too deep into design and creation, but it was nice to learn about the basics and tools that
 a person needs to print an object. In the workshop, I learned about the types of printers, plastic, file formats, and design tools I will need
