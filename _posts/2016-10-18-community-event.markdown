@@ -5,6 +5,8 @@ date:   2016-10-18 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
 ---
+<br>
+
 <p> For my community event, I attended a 3D Printing Introduction Workshop at Kenan Science Library’s Makerspace. 
 I wanted to attend this event because I am interested in 3D printing and had an idea in mind for an object I wanted to print for my job.
 It was an introduction workshop so we didn’t go too deep into design and creation, but it was nice to learn about the basics and tools that
@@ -16,7 +18,7 @@ design, objects must be water tight, the bonds between the filament are weaker t
 software Tinkecad and Openscad. 
 
 <br>
-
+<br>
 Overall it was a really great learning experience and I am excited about what it possible with 3D printing. 
 There were a couple other people in the workshop with all kinds of projects and it was fun to talk about 
 problem solving, technology capabilities/limits, and design ideas with other students and staff in the community.
@@ -25,11 +27,11 @@ It was also cool to see how computer coding can go beyond the digital and become
 Till next time! 
 
 <br>
-
+<br>
 Sincerely,
 
 <br>
-
+<br>
 Hammer 
 
 <br>
