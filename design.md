@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Recommendations
-permalink: /recommendations/
+title: Research Interests
+permalink: /research/
 category: "recommendations"
-tagline: "thoughts from Kelsey"
+tagline: "Research Projects and Interests"
 ---
 <br>
 <h1> What Kelsey's Reading and Watching:</h1>
