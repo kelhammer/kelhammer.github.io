@@ -14,16 +14,16 @@ and passions.
 <h1>Document Conversion </h1>
 <br>
 There were two ways to get my work into multiple formats that I used throughout the process. 
-The first way was by running a pandoc argument on the command line eg. pandoc -S -o kelhammer.odt kelhammer.md. 
+The first way was by running a `pandoc` argument on the command line eg. `pandoc -S -o kelhammer.odt kelhammer.md`. 
 The other way to covert documents was to run them through my script that used similar arguments.
 <br>
 
 <h1> File List </h1>
 <ul>
-  <li>HTML</li>
-  <li>ODT</li>
-  <li>MD</li>
-  <li>PDF</li>
+  <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.html">HTML</a></li>
+  <li<a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.odt">ODT</a></li>
+  <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.md">MD</a></li>
+  <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.pdf">PDF</a></li>
 </ul>
 
 <img src="https://media.giphy.com/media/YalMCUQmsYSkM/giphy.gif" alt="giphy.com">
