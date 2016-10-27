@@ -26,5 +26,8 @@ The other way to covert documents was to run them through my script that used si
   <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.pdf">PDF</a></li>
 </ul>
 
+<h1> Script </h1> 
+<a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer-convert-docs.sh">Script for Assignment 3</a>
+
 <img src="https://media.giphy.com/media/YalMCUQmsYSkM/giphy.gif" alt="giphy.com">
 
