@@ -21,7 +21,7 @@ The other way to covert documents was to run them through my script that used si
 <h1> File List </h1>
 <ul>
   <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.html">HTML</a></li>
-  <li<a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.odt">ODT</a></li>
+  <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.odt">ODT</a></li>
   <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.md">MD</a></li>
   <li><a href="https://github.com/inls161/assignment-3-kelhammer/blob/master/kelhammer.pdf">PDF</a></li>
 </ul>
@@ -33,5 +33,4 @@ The other way to covert documents was to run them through my script that used si
 <a href="
 https://ide.c9.io/kelhammer/assignment3">Editor Link for C9</a>
 
-<img src="https://media.giphy.com/media/YalMCUQmsYSkM/giphy.gif" alt="giphy.com">
 
