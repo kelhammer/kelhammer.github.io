@@ -17,7 +17,8 @@ and passions.
 <br>
 There were two ways to get my work into multiple formats that I used throughout the process. 
 The first way was by running a `pandoc` argument on the command line eg. `pandoc -S -o kelhammer.odt kelhammer.md`. 
-The other way to covert documents was to run them through my script that used similar arguments.
+The other way to covert documents was to run them through my script that used similar flags and argument structure. 
+I had the system walk the user through converting their file into each file type. 
 <br>
 
 <h1> File List </h1>
