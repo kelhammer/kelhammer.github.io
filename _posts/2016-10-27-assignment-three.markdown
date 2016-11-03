@@ -63,6 +63,14 @@ with the user, but that just wasn't in the cards this week. Part of that is time
 
 <br> 
 
+<img src="hauser 1.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+<br>
+
+<img src="hauser 2.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+<br> 
+
 Anyways, off to do more work! 
 
 <br>
