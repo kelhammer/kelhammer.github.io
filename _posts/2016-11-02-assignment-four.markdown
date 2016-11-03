@@ -61,11 +61,11 @@ second one is called "Two Birds With One Stone"
 
 <br> 
 
-<img src="hauser 1.jpg" alt="Mountain View">
+<img src="hauser1.jpg" alt="Mountain View">
 
 <br>
 
-<img src="hauser 2.jpg" alt="Mountain View">
+<img src="hauser2.jpg" alt="Mountain View">
 
 <br> 
 
