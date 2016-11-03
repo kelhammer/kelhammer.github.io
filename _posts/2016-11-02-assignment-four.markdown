@@ -61,6 +61,17 @@ second one is called "Two Birds With One Stone"
 
 <br> 
 
+<img src="hauser 1.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+<br>
+
+<img src="hauser 2.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+<br> 
+
+TEST
+<br> 
+
 Till next time!
 
 <br>

@@ -61,17 +61,6 @@ blog post but I worked it out with some time and exploring. My only wish for thi
 different week so I could have built more into my script. I would have loved to work with some `if` statements and make my script more interactive
 with the user, but that just wasn't in the cards this week. Part of that is time constraints and part of it is bravery with coding. 
 
-<br> 
-
-<img src="hauser 1.jpg" alt="Mountain View" style="width:304px;height:228px;">
-
-<br>
-
-<img src="hauser 2.jpg" alt="Mountain View" style="width:304px;height:228px;">
-
-<br> 
-
-TEST
 
 Anyways, off to do more work! 
 
