@@ -4,7 +4,6 @@ title:  "Assignment 4"
 date:   2016-11-03 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
-
 ---
 <h1> Assignment 4 Reflections </h1>
 
@@ -57,9 +56,7 @@ on it this weekend.
 <h1> Script </h1> 
 <a href="https://github.com/kelhammer/fred-s-ghost-assignment-4">Repository for Assignment</a>
 
-<br> 
 
-TEST
 <br> 
 
 Till next time!
