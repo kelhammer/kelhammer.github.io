@@ -5,9 +5,6 @@ date:   2016-11-03 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
 
-<img src="hauser1.jpg" alt="Mountain View">
-
-<img src="hauser2.jpg" alt="Mountain View">
 ---
 <h1> Assignment 4 Reflections </h1>
 
@@ -53,23 +50,12 @@ Obama! It's okay though because I saw him here in 2012 and I got to
 sing along with James Taylor. I am actually really glad we left to
 come back to class because we got to be in the A.C. and our group 
 worked so well together that we finished the project on time and don't have to work
-on it this weekend. We took
-some pictures to show our journey. The first one has two titles 
-"It's Hot" and "Hauser You Were Right, Let's Go to Class" and the
-second one is called "Two Birds With One Stone" 
+on it this weekend.
 
 <br>
 
 <h1> Script </h1> 
 <a href="https://github.com/kelhammer/fred-s-ghost-assignment-4">Repository for Assignment</a>
-
-<br> 
-
-<img src="hauser1.jpg" alt="Mountain View">
-
-<br>
-
-<img src="hauser2.jpg" alt="Mountain View">
 
 <br> 
 
