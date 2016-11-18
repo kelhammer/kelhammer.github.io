@@ -30,6 +30,9 @@ The script also uses SQL INSERT statements instead of loading a CSV file. I know
 
 <br> 
 
+<p> IT'S WORKING!! Huzzah! Okay, so some other things that the script does (aka duh how I could I forget these things)
+The script also echos commands for the user, generates a random string, and performs the msysql dump. </p>
+
 <h2> Reflection: </h2>
 
 <br> 
