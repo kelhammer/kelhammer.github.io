@@ -24,6 +24,10 @@ apologize for not going into further detail. </p>
 The script also uses SQL INSERT statements instead of loading a CSV file. I know it does a lot, but C9 is still being funky and I can't remember anymore than what I listed above. I will check back again. 
 </p>
 
+<br>
+
+<a href="https://github.com/kelhammer/team-fred-assignment-5">My Fork of Assignment</a>
+
 <br> 
 
 <h2> Reflection: </h2>
@@ -88,13 +92,6 @@ and celebrate that we had conquered our mysql challenges. Hope you enjoy! </p>
 
 <iframe src="//giphy.com/embed/l0Hly4MlD2aPvXgas" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/l0Hly4MlD2aPvXgas">via GIPHY</a></p>
 
-<br> 
-
-<h1> Script </h1> 
-
-<br> 
-
-<a href="https://github.com/kelhammer/team-fred-assignment-5">My Fork of Assignment</a>
 
 <br> 
 
