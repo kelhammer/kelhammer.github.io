@@ -8,7 +8,8 @@ author: "Kelsey Hammer"
 <h2> Community Event Write Up #2 </h2>
 
 So for my second community event I went to a workshop called "Turning Data into Infographics: An Interactive Workshop for Problem Solvers." The event was put on
-by two campus groups: SkillfUL (a workshop series from the Undergraduate Library's Design Lab) and CUBE (a program for social entrepeneurs through the Campus Y and UNC’s Center for 
+by two campus groups: <a href="http://skillful.web.unc.edu/">SkillfUL</a> (a workshop series from the Undergraduate Library's Design Lab) 
+and <a href="http://socialinnovation.unc.edu/spaces/cube/">CUBE</a> (a program for social entrepeneurs through the Campus Y and UNC’s Center for 
 Social Justice and Social Innovation). 
 
 <br>
