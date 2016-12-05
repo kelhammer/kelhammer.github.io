@@ -68,15 +68,7 @@ and contacts in the UNC community.
 
 <br>
 
-<img src=" _posts/1 house.JPG" height="400" width="550" alt="house">
-
-<br>
-
-<img src="2 house.JPG" alt="house">
-
-<br>
-
-<img src="3 house.JPG" alt="house">
+<iframe src="//giphy.com/embed/12mxFCRSIB739K" width="480" height="433" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/12mxFCRSIB739K">via GIPHY</a></p>
 
 <br>
 
