@@ -68,6 +68,18 @@ and contacts in the UNC community.
 
 <br>
 
+<img src="1 house.JPG" alt="house">
+
+<br>
+
+<img src="2 house.JPG" alt="house">
+
+<br>
+
+<img src="3 house.JPG" alt="house">
+
+<br>
+
 Enjoy pics of my house below! 
 
 <br>
