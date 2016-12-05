@@ -11,7 +11,7 @@ author: "Kelsey Hammer"
 
 <br>
 
-<h2> Our project: https://kelhammer.github.io/dynamicduo/#/ </h2>
+<h2> href="https://kelhammer.github.io/dynamicduo/#/">Our Presentation</a> </h2>
 
 <br>
 
