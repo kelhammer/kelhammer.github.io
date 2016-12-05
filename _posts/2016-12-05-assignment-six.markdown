@@ -21,17 +21,20 @@ author: "Kelsey Hammer"
 
 <h2>Kelsey:</h2>
 
-<br>
+<br> 
 
-Setting up the github site and connecting Ellen
-Script writing (preliminary script, first adudio draft script history, future, unc, conclusion)
-Research (bad examples, history, unc, future, images) 
-Coding for fragments
-Coding for color
-Check high resolution for images
-Organization / Planning
-Troubleshooting (push/pull issues, fragment issues, navigation, Audacity)
-Voiceover (4 sections) 
+<ul>
+<li> Setting up the github site and connecting Ellen  </li> 
+<li> Script writing (preliminary script, first adudio draft script history, future, unc, conclusion)</li> 
+<li> Research (bad examples, history, unc, future, images) </li> 
+<li> Coding for fragments </li> 
+<li> Coding for color </li> 
+<li> Check high resolution for images </li> 
+<li> Organization / Planning </li> 
+<li> Troubleshooting (push/pull issues, fragment issues, navigation, Audacity) </li> 
+<li> Voiceover (4 sections) </li> 
+</ul>
+
 
 <br>
 
@@ -39,14 +42,16 @@ Voiceover (4 sections)
 
 <br>
 
-Adapting template 
-Final pictures
-Headers 
-Script writing (introduction, good examples, bad examples, tools)
-Design coding
-First draft of presentation preparation/complilation of text/images/template
-Troubleshooting
-Voiceover (3 sections)
+<ul>
+<li> Adapting template </li> 
+<li> Final pictures </li> 
+<li> Headers </li> 
+<li> Script writing (introduction, good examples, bad examples, tools) </li> 
+<li> Design coding </li> 
+<li> First draft of presentation preparation/complilation of text/images/template </li> 
+<li> Troubleshooting </li> 
+<li> Voiceover (3 sections) </li> 
+</ul>
 
 <br>
 
@@ -54,10 +59,10 @@ Voiceover (3 sections)
 
 <br>
 
-General Research
-Design Ideas 
-Combined on second draft
-Combined on third draft
+<li> General Research </li> 
+<li> Design Ideas </li> 
+<li> Combined on second draft </li> 
+<li> Combined on third draft </li> 
 
 <br>
 
