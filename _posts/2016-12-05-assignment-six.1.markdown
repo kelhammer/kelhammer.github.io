@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assignment 6"
-date:   2016-11-17 19:45:31 +0530
+date:   2016-12-05 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
 ---
@@ -78,12 +78,15 @@ final speaker note / recording version. We then recorded each section (sometimes
 <br>
 
 In class we worked on the template together. Ellen did most of the tinkering via keyboard and I helped her by giving notes, discussing possibilities, and trouble shooting when
-issues arose in our first draft of the powerpoint. For the second and third draft we worked togething in a conference room with a whiteboard and a table. It was very official! 
-We filled in content and then began to tinker with fun stuff. I figured out how to do fragments and dictated the code to Ellen and worked on the color coding myself.
+issues arose in our first draft of the powerpoint. For the second and third draft we worked togething in a 
+conference room with a whiteboard and a table. It was very official! 
+We filled in content and then began to tinker with fun stuff. I figured out how to do fragments and dictated the code to 
+Ellen and worked on the color coding myself.
 
 <br>
 
-Ellen and I also collaboratively talked a lot about the subject matter, our design principles, and presentation principles. I felt like we worked really well together and both
+Ellen and I also collaboratively talked a lot about the subject matter, our design principles, and presentation principles. 
+I felt like we worked really well together and both
 contributed a lot of work, excitement, and quality to the project. 
  
 <br>
@@ -92,7 +95,8 @@ contributed a lot of work, excitement, and quality to the project.
 
 <br>
 
-I think one lightbulb I had was that we were basically creating from scratch what Prezi does which is cool. Ellen and I also had a lot of fun learning about design and data visualization
+I think one lightbulb I had was that we were basically creating from scratch what Prezi does which is cool. Ellen and 
+I also had a lot of fun learning about design and data visualization
 from Edward Tufte. Just studying his work and thought processes was a lightbulb moment itself. 
 
 <br>
@@ -114,7 +118,7 @@ of this class</h2>
 
 I kind of answered that above, but in a way this project used everything: trouble shooting, collaboration, design, structure, conversion, navigation, push/pull, command line, etc. 
 I think we didn't freak out as much as usual when we found problems and we used our best skills to come together as a team. We looked at how something can work well but also look
-nice (#swank) and tried to build something good and then flashy, rather than flashy with no support. 
+nice `swank` and tried to build something good and then flashy, rather than flashy with no support. 
 
 <br>
 
@@ -122,8 +126,9 @@ nice (#swank) and tried to build something good and then flashy, rather than fla
 
 <br>
 
-I think this class will definitely help me in the future because I not only gained an understanding of how computers work (and how people work with them), but also how to work collaboratively
-on complex projects, troubleshoot, and speak a new language (#git). 
+I think this class will definitely help me in the future because I not only gained an understanding of how computers work
+(and how people work with them), but also how to work collaboratively
+on complex projects, troubleshoot, and speak a new language `git`. 
 
 <br>
 

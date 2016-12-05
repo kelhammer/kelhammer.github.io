@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Assignment 6"
-date:   2016-11-17 19:45:31 +0530
+title:  "Community Event 2"
+date:   2016-12-05 19:45:31 +0530
 categories: ["design", "class", "posts"]
 author: "Kelsey Hammer"
 ---
-<h1> Assignment 6 Reflections </h1>
-
-<p> Greetings Hauser!</p>
-
 <h2> Community Event Write Up #2 </h2>
 
 So for my second community event I went to a workshop called "Turning Data into Infographics: An Interactive Workshop for Problem Solvers." The event was put on
