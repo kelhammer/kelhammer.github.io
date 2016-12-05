@@ -68,7 +68,7 @@ and contacts in the UNC community.
 
 <br>
 
-<img src="1 house.JPG" alt="house">
+<img src=" _posts/1 house.JPG" alt="house">
 
 <br>
 
