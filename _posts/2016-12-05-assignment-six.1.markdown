@@ -32,7 +32,7 @@ author: "Kelsey Hammer"
 <li> Check high resolution for images </li> 
 <li> Organization / Planning </li> 
 <li> Troubleshooting (push/pull issues, fragment issues, navigation, Audacity) </li> 
-<li> Voiceover (4 sections) </li> 
+<li> Voiceover </li> 
 </ul>
 
 
@@ -50,7 +50,7 @@ author: "Kelsey Hammer"
 <li> Design coding </li> 
 <li> First draft of presentation preparation/complilation of text/images/template </li> 
 <li> Troubleshooting </li> 
-<li> Voiceover (3 sections) </li> 
+<li> Voiceover </li> 
 </ul>
 
 <br>
@@ -63,6 +63,7 @@ author: "Kelsey Hammer"
 <li> Design Ideas </li> 
 <li> Combined on second draft </li> 
 <li> Combined on third draft </li> 
+<li> Citation </li> 
 
 <br>
 
